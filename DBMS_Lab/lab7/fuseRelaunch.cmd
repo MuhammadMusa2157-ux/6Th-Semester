@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/ilyas/Semester 6/DSD lab/lab7/level_to_pulse_tb_isim_beh.exe" -prj "E:/ilyas/Semester 6/DSD lab/lab7/level_to_pulse_tb_beh.prj" "work.level_to_pulse_tb" "work.glbl" 

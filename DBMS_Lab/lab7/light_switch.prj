@@ -1,0 +1,6 @@
+verilog work "clock_divider.v"
+verilog work "Synchronizer.v"
+verilog work "switch_fsm.v"
+verilog work "level_to_pulse.v"
+verilog work "Debouncer.v"
+verilog work "top_module.v"
